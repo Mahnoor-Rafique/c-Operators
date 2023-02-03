@@ -6,7 +6,7 @@ int main()
 	time=20;
 	if(time<15)
 	{
-		cout<<"Good Mornig";
+		cout<<"Good Morning";
 	}
 	else
 {
