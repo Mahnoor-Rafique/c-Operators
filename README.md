@@ -1,2 +1,2 @@
 # programs
-I made programs of c++
+I made programs in c++
